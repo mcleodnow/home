@@ -1,7 +1,14 @@
+/* I have no idea how to code in CSS. Actually, I do, but this code right here seems very wrong. */
+
+body{
+font-family: "Calibri", Calibri, sans;
+}
+
 p#main{
 font-family: "Calibri", Calibri, sans;
 }
 
-span{
+h1{
 font-family: "Calibri", Calibri, sans;
 }
+
